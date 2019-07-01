@@ -1,4 +1,4 @@
-//1170300323-开源软件开发-作业A1
+//1170300323-hit open source-A1
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
